@@ -6,7 +6,7 @@ export default function HomePage() {
       <p className="hero-tag">Personal Journal</p>
       <h1>记录今天，也收藏未来</h1>
       <p>
-        这是一个专为手机浏览优化的日记空间。支持新建、编辑、删除和检索，部署到 Vercel 后可通过公网地址随时访问。
+        这是属于你的日记空间。
       </p>
       <div className="hero-actions">
         <Link href="/diary" className="button-primary">
